@@ -203,7 +203,7 @@ color: #fff !important;
 }
 
 .demo-1 .large-header {
-	background-image: url('../images/banner.jpg');
+	background-image: url('.banner.jpg');
 	background-position: center bottom;
 }
 .w3ls-main-title {
